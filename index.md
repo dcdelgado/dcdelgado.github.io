@@ -6,7 +6,7 @@ layout: default
 
 **Address:** Ambilly, Auvergne-Rhône-Alpes, France   
 **LinkedIn:** [https://www.linkedin.com/in/dcdelgado/](https://www.linkedin.com/in/dcdelgado/)  
-**E-mail:** dcdelgado@gmail.com
+**E-mail:** dcdelgado [at] gmail [dot] com
 
 ## About
 
