@@ -2,16 +2,13 @@
 layout: default
 ---
 
+An experienced finance professional with a master's degree in Economics and a Certificate in Quantitative Finance, background in trading, risk management, pricing, hedging, and economic research. Has a comprehensive skillset, including expertise in quantitative development, modelling, research, software development, and team management. Works as a derivatives trader responsible for pricing and hedging financial portfolio of Raizen's oil imports that supplies Shell's distribution network in Brazil, Argentina, Paraguay, and Uruguay. Held the position of Head of Quant at Raízen Trading, leading the development of derivatives pricing models, proxy-hedging models, and systematic hedging strategies. Worked as a Quant Consultant, contributing to large-scale projects related to portfolio risk assessment for reputable organizations such as UBS,  Credit Suisse, and Acadia (LSEG). Started the career as a researcher at the Latam's Office of the Chief Economist at the World Bank Group (USA).
+
 ## Contact Information
 
 **Address:** Ambilly, Auvergne-Rhône-Alpes, France   
 **LinkedIn:** [https://www.linkedin.com/in/dcdelgado/](https://www.linkedin.com/in/dcdelgado/)  
 **E-mail:** dcdelgado [at] gmail [dot] com
-
-## About
-
-An experienced finance professional with a master's degree in Economics and a Certificate in Quantitative Finance, background in trading, risk management, pricing, hedging, and economic research. Has a comprehensive skillset, including expertise in quantitative development, modelling, research, software development, and team management. Works as a derivatives trader responsible for pricing and hedging financial portfolio of Raizen's oil imports that supplies Shell's distribution network in Brazil, Argentina, Paraguay, and Uruguay. Held the position of Head of Quant at Raízen Trading, leading the development of derivatives pricing models, proxy-hedging models, and systematic hedging strategies. Worked as a Quant Consultant, contributing to large-scale projects related to portfolio risk assessment for reputable organizations such as UBS,  Credit Suisse, and Acadia (LSEG). Started the career as a researcher at the Latam's Office of the Chief Economist at the World Bank Group (USA).
-
 
 ## Experience
 
