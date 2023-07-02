@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Danilo Caiano Delgado
+## Contact Information
 
 **Address:** Ambilly, Auvergne-Rhône-Alpes, France   
 **LinkedIn:** [https://www.linkedin.com/in/dcdelgado/](https://www.linkedin.com/in/dcdelgado/)  
