@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introduction"
+title: "Présentation"
 author: "Danilo Delgado"
 categories: documentation
 tags: [documentation,sample]
