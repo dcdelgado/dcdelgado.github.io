@@ -10,8 +10,8 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Personal Page - Danilo Delgado"
-description:	       "Danilo Delgado's personal web page"
+title:		           "Meet Danilo!"
+description:	       "Personal Presentation Page"
 author:              "Danilo Delgado"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
