@@ -4,7 +4,7 @@ title: "Getting Started"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
-image: london_city.jpg
+image: london_bank.jpg
 ---
 
 # Millennial
