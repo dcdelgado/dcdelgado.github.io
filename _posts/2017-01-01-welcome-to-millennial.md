@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
+title: "Bienvenue sur mon site personnel !"
+author: "Danilo Delgado"
 categories: documentation
 tags: [documentation,sample]
 image: london_bank.jpeg
