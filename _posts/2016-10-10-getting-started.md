@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "Expérience Professionnelle"
+author: "Danilo Delgado"
 categories: documentation
 tags: [documentation,sample]
 image: mont_blanc.jpg

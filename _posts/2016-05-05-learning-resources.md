@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
+title: "Compétences Techniques"
+author: "Danilo Delgado"
 categories: resources
 tags: [documentation,sample]
 image: london_bank.jpeg

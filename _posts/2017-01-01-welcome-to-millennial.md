@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bienvenue sur mon site personnel !"
+title: "Introduction"
 author: "Danilo Delgado"
 categories: documentation
 tags: [documentation,sample]

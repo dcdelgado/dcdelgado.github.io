@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About the Author"
+title: "À propos de Danilo"
 author: "Paul Le"
 categories: facts
 tags: [sample]

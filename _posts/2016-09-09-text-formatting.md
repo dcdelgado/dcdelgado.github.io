@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
+title: "Diplômes et Formation"
+author: "Danilo Delgado"
 categories: sample
 tags: [sample]
 image: louvre_2.jpg
