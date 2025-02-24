@@ -4,7 +4,7 @@ title: "Bienvenue sur mon site personnel !"
 author: "Danilo Delgado"
 categories: documentation
 tags: [documentation,sample]
-image: london_bank.jpeg
+image: rio_2.jpg
 ---
 
 Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
